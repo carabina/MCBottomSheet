@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "MCBottomSheet"
-  s.version      = "0.1.2"
+  s.version      = "0.1.3"
   s.summary      = "A reusable component that lets you present view controllers as bottom sheets, like in Apple Maps."
 
   # This description is used to generate tags and improve search results.
